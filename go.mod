@@ -7,7 +7,7 @@ require (
 	github.com/TylerBrock/colorjson v0.0.0-20200706003622-8a50f05110d2
 	github.com/authzed/authzed-go v0.0.0-20210706193116-47a8c1aba11e
 	github.com/authzed/grpcutil v0.0.0-20210709212005-3a705ca91827
-	github.com/cockroachdb/cockroach v20.1.13+incompatible
+	github.com/cockroachdb/cockroach v20.1.17+incompatible
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/hokaccha/go-prettyjson v0.0.0-20210113012101-fb4e108d2519 // indirect
 	github.com/jzelinskie/cobrautil v0.0.1
