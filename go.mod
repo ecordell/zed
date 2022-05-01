@@ -10,8 +10,8 @@ require (
 	github.com/cockroachdb/cockroach v20.1.13+incompatible
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/hokaccha/go-prettyjson v0.0.0-20210113012101-fb4e108d2519 // indirect
-	github.com/jzelinskie/cobrautil v0.0.1
-	github.com/jzelinskie/stringz v0.0.0-20210604201827-321bc7aaa2dc
+	github.com/jzelinskie/cobrautil v0.0.12
+	github.com/jzelinskie/stringz v0.0.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v0.29.4
@@ -20,8 +20,7 @@ require (
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
 	golang.org/x/term v0.0.0-20201207232118-ee85cb95a76b
-	google.golang.org/genproto v0.0.0-20210708141623-e76da96a951f // indirect
-	google.golang.org/grpc v1.39.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/grpc v1.45.0
+	google.golang.org/protobuf v1.28.0
 	tailscale.com v1.6.0
 )
