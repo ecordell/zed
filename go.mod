@@ -22,6 +22,6 @@ require (
 	golang.org/x/term v0.0.0-20201207232118-ee85cb95a76b
 	google.golang.org/genproto v0.0.0-20210708141623-e76da96a951f // indirect
 	google.golang.org/grpc v1.39.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.1
 	tailscale.com v1.6.0
 )
